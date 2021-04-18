@@ -1,0 +1,44 @@
+body
+{
+	background-color: #00CED1;
+	color: 	#4B0082;
+}
+
+#container
+{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#logo
+{
+	background-color: #90EE90;
+	text-align: center;
+	padding: 15px;
+}
+
+#nav
+{
+	float: left;
+	background-color: #778899;
+	width: 120px;
+	padding: 10px;
+	min-height: 430px;
+}
+
+#content
+{
+	float: left;
+	background-color:#AFEEEE;
+	width: 820px;
+	padding: 20px;
+	min-height: 410px;
+}
+
+#footer
+{
+	clear: both;
+	background-color: #90EE90;
+	text-align: center;
+	padding: 10px;
